@@ -1,0 +1,10 @@
+build/
+out/
+cceprint/
+npuchk/
+input/
+output/
+*.o
+*.so
+*.bin
+stub_reg.log
